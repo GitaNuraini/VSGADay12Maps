@@ -1,4 +1,4 @@
-package com.gita.vsgaday12maps;
+package com.gita.maps;
 
 import org.junit.Test;
 

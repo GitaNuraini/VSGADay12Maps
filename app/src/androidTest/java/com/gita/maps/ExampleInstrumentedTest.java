@@ -1,4 +1,4 @@
-package com.gita.vsgaday12maps;
+package com.gita.maps;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.gita.vsgaday12maps", appContext.getPackageName());
+        assertEquals("com.gita.maps", appContext.getPackageName());
     }
 }
